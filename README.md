@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 🌱 I'm currently learning mobile app development by doing an account application
+- 💻 I'm interested in ML, Software Engineer, Data Science, Web Dev, Mobile Dev, among others
+- 📫 How to reach me: https://www.linkedin.com/in/juan-martinez-vasquez-a57919160/
+
+## Projects
+- [git-learning-log](https://github.com/Juandmar-bit/git-learning-log.git) - Git project tracking a learning log
